@@ -3,4 +3,5 @@
     <string name="clk_rotate_button_text">Rotate</string>
     <string name="anticlk_rotate_button_text">Antirotate</string>
     <string name="heading">Rorate animation</string>
+    <string name="gone">Gone</string>
 </resources>
